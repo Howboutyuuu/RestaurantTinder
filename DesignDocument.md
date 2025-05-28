@@ -13,5 +13,5 @@ Emote System (For basic communication if not face-to-face)
 
 Necessary Modules:
 Firebase (Authentication)
-React.js (Webdev Stack)
+Next.js/React Native (Webdev Stack)
 Google Places API (For Pulling data)
