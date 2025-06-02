@@ -1,13 +1,13 @@
 # RestaurantTinder
 
 Core Features:
-One-to-one interaction
-Invite Link
-Passscode join system
+One-to-one interaction, 
+Invite Link, 
+Passcode join system, 
 Tinder style UI
 
 Second Priority Features:
-Group Usage
+Group Usage, 
 Emote System (For basic communication if not face-to-face)
 
 
